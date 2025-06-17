@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a third-year student at Lovely Professional University, with hands-on experience in Docker, Visual Studio, and Linux. I have a solid understanding of AWS services and proficiency in programming languages such as Java, C++, and Python. My technical skills and knowledge position me well for various development and cloud-based projects.
+I am currently a fourth-year student at Lovely Professional University, with hands-on experience in Docker, Visual Studio, and Linux. I have a solid understanding of AWS services and proficiency in programming languages such as Java, C++, and Python. My technical skills and knowledge position me well for various development and cloud-based projects.
 
 
 ## 🌐 Socials:
